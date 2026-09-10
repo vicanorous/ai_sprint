@@ -1,0 +1,51 @@
+id,name,city,product,price,signup_date
+1,alan turing,Lagos,Tablet,N/A,2026/01/15
+2,Grace Hopper,lagos,Keyboard,"1,200.00",
+3,Dennis Ritchie,Lagos,Laptop,"1,200.00",2026/01/15
+4,Linus Torvalds,"Accra, ",MOUSE,1200,
+5,Linus Torvalds,"Accra, ",Monitor,N/A,
+6,Brian Kernighan,London,Laptop,1299.99,yesterday
+7,Dennis Ritchie,london,Tablet,1299.99,2026/01/15
+8,Margaret Hamilton,lagos,laptop,free,2026-01-15
+9,Margaret Hamilton,london,MOUSE,850,2026-01-15
+10,Donald Knuth,"Accra, ",laptop,free,2026-01-15
+11,guido van rossum,London,MOUSE,,
+12,Linus Torvalds,lagos,Laptop,N/A,15-01-2026
+13,alan turing,Abuja,laptop,free,15-01-2026
+14,Donald Knuth,london,Phone,,15-01-2026
+15,Linus Torvalds,London,laptop,1299.99,
+16,Linus Torvalds,LA,monitor,free,15-01-2026
+17,guido van rossum,Abuja,tablet,1200,2026/01/15
+18,Ada Lovelace,london,Monitor,850,2026-01-15
+19,Linus Torvalds,london,PHONE,0,
+20,Donald Knuth,LA,Tablet,1299.99,2026/01/15
+21,guido van rossum,"Accra, ",Tablet,free,
+22,Dennis Ritchie,london,PHONE,1299.99,
+23,Donald Knuth,lagos,Laptop,"1,200.00",2026/01/15
+24,Grace Hopper,Nairobi,MOUSE,"1,200.00",
+25,Dennis Ritchie,Cape Town,Keyboard,850,
+26,Ada Lovelace,lagos,Keyboard,850,yesterday
+27,Margaret Hamilton,lagos,Tablet,free,2026/01/15
+28,Donald Knuth,Lagos,Tablet,1299.99,
+29,alan turing,London,Keyboard,N/A,2026/01/15
+30,Margaret Hamilton,LA,Keyboard,1200,
+31,Margaret Hamilton,Cape Town,Laptop,"1,200.00",15-01-2026
+32,Tim Berners-Lee,Abuja,Laptop,N/A,
+33,alan turing,lagos,monitor,"1,200.00",
+34,Grace Hopper,LA,monitor,1299.99,15-01-2026
+35,guido van rossum,Nairobi,PHONE,N/A,yesterday
+36,Tim Berners-Lee,Nairobi,tablet,0,
+37,Donald Knuth,lagos,PHONE,N/A,2026-01-15
+38,Margaret Hamilton,Lagos,MOUSE,N/A,
+39,Linus Torvalds,Lagos,laptop,1200,2026/01/15
+40,alan turing,Lagos,tablet,"1,200.00",
+41,Linus Torvalds,London,monitor,N/A,
+42,Grace Hopper,Cape Town,PHONE,0,
+43,Linus Torvalds,lagos,laptop,free,15-01-2026
+44,Dennis Ritchie,Nairobi,monitor,1200,yesterday
+45,alan turing,Lagos,Monitor,,2026-01-15
+46,Linus Torvalds,Abuja,PHONE,0,2026/01/15
+47,Dennis Ritchie,LA,Tablet,0,2026/01/15
+48,alan turing,Cape Town,Keyboard,"1,200.00",2026-01-15
+49,guido van rossum,Lagos,laptop,N/A,2026/01/15
+50,Dennis Ritchie,Cape Town,monitor,N/A,

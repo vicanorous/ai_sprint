@@ -1,0 +1,30 @@
+id,name,city,product,price,signup_date
+2,Grace Hopper,Lagos,Keyboard,1200.0,
+3,Dennis Ritchie,Lagos,Laptop,1200.0,2026-01-15
+4,Linus Torvalds,"Accra,",Mouse,1200.0,
+6,Brian Kernighan,London,Laptop,1299.99,
+7,Dennis Ritchie,London,Tablet,1299.99,2026-01-15
+9,Margaret Hamilton,London,Mouse,850.0,2026-01-15
+15,Linus Torvalds,London,Laptop,1299.99,
+17,Guido Van Rossum,Abuja,Tablet,1200.0,2026-01-15
+18,Ada Lovelace,London,Monitor,850.0,2026-01-15
+19,Linus Torvalds,London,Phone,0.0,
+20,Donald Knuth,Los Angeles,Tablet,1299.99,2026-01-15
+22,Dennis Ritchie,London,Phone,1299.99,
+23,Donald Knuth,Lagos,Laptop,1200.0,2026-01-15
+24,Grace Hopper,Nairobi,Mouse,1200.0,
+25,Dennis Ritchie,Cape Town,Keyboard,850.0,
+26,Ada Lovelace,Lagos,Keyboard,850.0,
+28,Donald Knuth,Lagos,Tablet,1299.99,
+30,Margaret Hamilton,Los Angeles,Keyboard,1200.0,
+31,Margaret Hamilton,Cape Town,Laptop,1200.0,2026-01-15
+33,Alan Turing,Lagos,Monitor,1200.0,
+34,Grace Hopper,Los Angeles,Monitor,1299.99,2026-01-15
+36,Tim Berners-lee,Nairobi,Tablet,0.0,
+39,Linus Torvalds,Lagos,Laptop,1200.0,2026-01-15
+40,Alan Turing,Lagos,Tablet,1200.0,
+42,Grace Hopper,Cape Town,Phone,0.0,
+44,Dennis Ritchie,Nairobi,Monitor,1200.0,
+46,Linus Torvalds,Abuja,Phone,0.0,2026-01-15
+47,Dennis Ritchie,Los Angeles,Tablet,0.0,2026-01-15
+48,Alan Turing,Cape Town,Keyboard,1200.0,2026-01-15
