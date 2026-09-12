@@ -1,0 +1,26 @@
+id,customer,city,product,price,region
+1,Ada Lovelace,Lagos,Phone,1200.0,asia
+3,Ada Lovelace,Tokyo,Phone,1200.0,asia
+4,Ada Lovelace,Delhi,Mouse,1200.0,asia
+9,Alan Turing,Lagos,Monitor,850.0,asia
+11,Alan Turing,London,Monitor,850.0,asia
+12,Alan Turing,Berlin,Mouse,1200.0,asia
+13,Grace Hopper,Delhi,Mouse,1200.0,asia
+15,Ada Lovelace,Lagos,Phone,1200.0,asia
+16,Grace Hopper,London,Phone,850.0,asia
+17,Ada Lovelace,London,Monitor,1200.0,asia
+18,Ada Lovelace,London,Keyboard,1200.0,asia
+19,Ada Lovelace,Delhi,Keyboard,1200.0,asia
+20,Ada Lovelace,Berlin,Phone,1200.0,asia
+21,Alan Turing,London,Monitor,1200.0,asia
+22,Alan Turing,Lagos,Phone,850.0,asia
+23,Ada Lovelace,London,Tablet,850.0,asia
+25,Grace Hopper,Delhi,Mouse,850.0,asia
+26,Ada Lovelace,Lagos,Tablet,1200.0,asia
+28,Ada Lovelace,Delhi,Tablet,1200.0,asia
+31,Ada Lovelace,Berlin,Phone,1200.0,asia
+32,Grace Hopper,Lagos,Mouse,1200.0,asia
+33,Alan Turing,Lagos,Keyboard,1200.0,asia
+38,Ada Lovelace,London,Monitor,1200.0,asia
+39,Grace Hopper,Delhi,Tablet,850.0,asia
+40,Alan Turing,Berlin,Laptop,1200.0,asia

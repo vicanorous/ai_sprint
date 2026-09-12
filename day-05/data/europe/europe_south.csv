@@ -1,0 +1,31 @@
+id,customer,city,product,price,region
+1,Grace Hopper,London,Phone,free,europe
+2,ALAN TURING,london,Mouse,850,europe
+3, ada lovelace,London,Phone,"1,200.00",europe
+4,Grace Hopper,Tokyo,Keyboard,N/A,europe
+5,Grace Hopper,Tokyo,Monitor,,europe
+6,ALAN TURING,London,Phone,"1,200.00",europe
+7,Grace Hopper,london,Laptop,1200,europe
+8, ada lovelace,lagos,Mouse,"1,200.00",europe
+9,Grace Hopper,london,Keyboard,1200,europe
+10,ALAN TURING,london,Keyboard,850,europe
+11,Grace Hopper,London,Keyboard,1200,europe
+12,Grace Hopper,delhi,Laptop,free,europe
+13,Grace Hopper,Berlin,Tablet,free,europe
+14,ALAN TURING,Lagos,Tablet,850,europe
+15, ada lovelace,london,Laptop,free,europe
+16,Grace Hopper,London,Keyboard,"1,200.00",europe
+17,Grace Hopper,Lagos,Mouse,N/A,europe
+18,Grace Hopper,Tokyo,Keyboard,"1,200.00",europe
+19, ada lovelace,London,Phone,,europe
+20,Grace Hopper,Lagos,Keyboard,N/A,europe
+21,ALAN TURING,Lagos,Laptop,N/A,europe
+22,ALAN TURING,lagos,Laptop,"1,200.00",europe
+23,Grace Hopper,Lagos,Laptop,free,europe
+24,ALAN TURING,Berlin,Laptop,,europe
+25, ada lovelace,lagos,Mouse,850,europe
+26,Grace Hopper,lagos,Tablet,,europe
+27,Grace Hopper,london,Phone,,europe
+28,Grace Hopper,delhi,Phone,free,europe
+29,ALAN TURING,london,Mouse,free,europe
+30,ALAN TURING,london,Keyboard,850,europe
