@@ -1,0 +1,36 @@
+id,customer,city,product,price,region
+1,ALAN TURING,Berlin,Keyboard,850,africa
+2,Grace Hopper,lagos,Tablet,850,africa
+3, ada lovelace,delhi,Tablet,"1,200.00",africa
+4,ALAN TURING,London,Tablet,,africa
+5, ada lovelace,lagos,Phone,"1,200.00",africa
+6,ALAN TURING,delhi,Phone,free,africa
+7, ada lovelace,Lagos,Monitor,850,africa
+8,ALAN TURING,Tokyo,Monitor,850,africa
+9, ada lovelace,lagos,Monitor,850,africa
+10,Grace Hopper,delhi,Laptop,,africa
+11,ALAN TURING,london,Laptop,N/A,africa
+12,ALAN TURING,Berlin,Monitor,850,africa
+13,Grace Hopper,delhi,Mouse,,africa
+14,Grace Hopper,lagos,Monitor,"1,200.00",africa
+15,ALAN TURING,london,Monitor,1200,africa
+16,ALAN TURING,London,Mouse,free,africa
+17,ALAN TURING,delhi,Phone,850,africa
+18, ada lovelace,Tokyo,Keyboard,1200,africa
+19,ALAN TURING,Tokyo,Keyboard,free,africa
+20, ada lovelace,Lagos,Mouse,850,africa
+21, ada lovelace,Berlin,Monitor,"1,200.00",africa
+22, ada lovelace,London,Monitor,N/A,africa
+23, ada lovelace,london,Tablet,N/A,africa
+24,ALAN TURING,London,Monitor,N/A,africa
+25, ada lovelace,london,Laptop,free,africa
+26,Grace Hopper,Lagos,Tablet,"1,200.00",africa
+27,Grace Hopper,Lagos,Mouse,1200,africa
+28, ada lovelace,lagos,Phone,1200,africa
+29,Grace Hopper,lagos,Phone,"1,200.00",africa
+30,ALAN TURING,delhi,Laptop,,africa
+31, ada lovelace,london,Mouse,N/A,africa
+32,ALAN TURING,lagos,Keyboard,,africa
+33,Grace Hopper,delhi,Laptop,"1,200.00",africa
+34,ALAN TURING,Lagos,Keyboard,1200,africa
+35,ALAN TURING,Tokyo,Mouse,850,africa

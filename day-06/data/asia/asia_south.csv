@@ -1,0 +1,41 @@
+id,customer,city,product,price,region
+1,ALAN TURING,Tokyo,Keyboard,1200,asia
+2, ada lovelace,Tokyo,Phone,,asia
+3,ALAN TURING,lagos,Tablet,1200,asia
+4, ada lovelace,London,Tablet,"1,200.00",asia
+5,ALAN TURING,Berlin,Keyboard,free,asia
+6,ALAN TURING,Tokyo,Mouse,,asia
+7, ada lovelace,delhi,Keyboard,N/A,asia
+8,Grace Hopper,Lagos,Phone,N/A,asia
+9, ada lovelace,Lagos,Mouse,,asia
+10, ada lovelace,London,Tablet,,asia
+11, ada lovelace,delhi,Tablet,"1,200.00",asia
+12,Grace Hopper,delhi,Tablet,,asia
+13,ALAN TURING,London,Laptop,1200,asia
+14,Grace Hopper,london,Tablet,1200,asia
+15, ada lovelace,London,Phone,free,asia
+16,ALAN TURING,lagos,Mouse,850,asia
+17,Grace Hopper,delhi,Monitor,,asia
+18, ada lovelace,Lagos,Laptop,free,asia
+19, ada lovelace,Tokyo,Laptop,N/A,asia
+20,Grace Hopper,Tokyo,Phone,850,asia
+21, ada lovelace,Lagos,Tablet,N/A,asia
+22, ada lovelace,London,Phone,free,asia
+23, ada lovelace,delhi,Laptop,N/A,asia
+24,Grace Hopper,Berlin,Monitor,,asia
+25,Grace Hopper,lagos,Phone,"1,200.00",asia
+26, ada lovelace,london,Laptop,"1,200.00",asia
+27,Grace Hopper,London,Monitor,free,asia
+28,Grace Hopper,Berlin,Phone,N/A,asia
+29, ada lovelace,Berlin,Mouse,1200,asia
+30,ALAN TURING,Berlin,Laptop,850,asia
+31, ada lovelace,lagos,Monitor,N/A,asia
+32,ALAN TURING,Berlin,Phone,"1,200.00",asia
+33, ada lovelace,delhi,Phone,850,asia
+34,ALAN TURING,London,Laptop,N/A,asia
+35,ALAN TURING,delhi,Keyboard,850,asia
+36,Grace Hopper,Berlin,Keyboard,N/A,asia
+37, ada lovelace,Lagos,Tablet,"1,200.00",asia
+38,Grace Hopper,London,Laptop,1200,asia
+39,Grace Hopper,london,Tablet,free,asia
+40,ALAN TURING,london,Keyboard,,asia

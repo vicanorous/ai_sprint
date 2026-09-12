@@ -1,0 +1,27 @@
+2026-09-12 14:44:51 | INFO    | workplays | logger is alive
+2026-09-12 15:08:48 | INFO    | workplays | app cleaner starting (env=development)
+2026-09-12 15:08:48 | WARNING | workplays | source dir data does not exist; run make_tree.py first
+2026-09-12 15:16:04 | INFO    | workplays | app cleaner starting (env=development)
+2026-09-12 15:16:04 | INFO    | workplays | found 6 CSV files under data
+2026-09-12 15:16:04 | INFO    | workplays | africa_north.csv: 35 in, 15 out, 20 dropped
+2026-09-12 15:16:05 | INFO    | workplays | africa_south.csv: 35 in, 21 out, 14 dropped
+2026-09-12 15:16:05 | INFO    | workplays | asia_north.csv: 40 in, 25 out, 15 dropped
+2026-09-12 15:16:05 | INFO    | workplays | asia_south.csv: 40 in, 17 out, 23 dropped
+2026-09-12 15:16:05 | INFO    | workplays | europe_north.csv: 30 in, 16 out, 14 dropped
+2026-09-12 15:16:05 | INFO    | workplays | europe_south.csv: 30 in, 14 out, 16 dropped
+2026-09-12 15:16:05 | INFO    | workplays | DONE: 210 rows in, 108 rows out, 102 dropped
+2026-09-12 15:17:37 | INFO    | workplays | app cleaner starting (env=development)
+2026-09-12 15:17:37 | INFO    | workplays | found 6 CSV files under data
+2026-09-12 15:17:37 | DEBUG   | workplays | cleaning data\africa\africa_north.csv -> clean\africa\africa_north.csv
+2026-09-12 15:17:37 | INFO    | workplays | africa_north.csv: 35 in, 15 out, 20 dropped
+2026-09-12 15:17:37 | DEBUG   | workplays | cleaning data\africa\africa_south.csv -> clean\africa\africa_south.csv
+2026-09-12 15:17:37 | INFO    | workplays | africa_south.csv: 35 in, 21 out, 14 dropped
+2026-09-12 15:17:37 | DEBUG   | workplays | cleaning data\asia\asia_north.csv -> clean\asia\asia_north.csv
+2026-09-12 15:17:37 | INFO    | workplays | asia_north.csv: 40 in, 25 out, 15 dropped
+2026-09-12 15:17:37 | DEBUG   | workplays | cleaning data\asia\asia_south.csv -> clean\asia\asia_south.csv
+2026-09-12 15:17:37 | INFO    | workplays | asia_south.csv: 40 in, 17 out, 23 dropped
+2026-09-12 15:17:37 | DEBUG   | workplays | cleaning data\europe\europe_north.csv -> clean\europe\europe_north.csv
+2026-09-12 15:17:37 | INFO    | workplays | europe_north.csv: 30 in, 16 out, 14 dropped
+2026-09-12 15:17:37 | DEBUG   | workplays | cleaning data\europe\europe_south.csv -> clean\europe\europe_south.csv
+2026-09-12 15:17:37 | INFO    | workplays | europe_south.csv: 30 in, 14 out, 16 dropped
+2026-09-12 15:17:37 | INFO    | workplays | DONE: 210 rows in, 108 rows out, 102 dropped

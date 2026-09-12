@@ -1,0 +1,18 @@
+id,customer,city,product,price,region
+1,Alan Turing,Tokyo,Keyboard,1200.0,asia
+3,Alan Turing,Lagos,Tablet,1200.0,asia
+4,Ada Lovelace,London,Tablet,1200.0,asia
+11,Ada Lovelace,Delhi,Tablet,1200.0,asia
+13,Alan Turing,London,Laptop,1200.0,asia
+14,Grace Hopper,London,Tablet,1200.0,asia
+16,Alan Turing,Lagos,Mouse,850.0,asia
+20,Grace Hopper,Tokyo,Phone,850.0,asia
+25,Grace Hopper,Lagos,Phone,1200.0,asia
+26,Ada Lovelace,London,Laptop,1200.0,asia
+29,Ada Lovelace,Berlin,Mouse,1200.0,asia
+30,Alan Turing,Berlin,Laptop,850.0,asia
+32,Alan Turing,Berlin,Phone,1200.0,asia
+33,Ada Lovelace,Delhi,Phone,850.0,asia
+35,Alan Turing,Delhi,Keyboard,850.0,asia
+37,Ada Lovelace,Lagos,Tablet,1200.0,asia
+38,Grace Hopper,London,Laptop,1200.0,asia
